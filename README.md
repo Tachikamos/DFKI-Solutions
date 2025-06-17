@@ -9,4 +9,4 @@ The exercises cover key topics in:
 
 All codes are provided in Jupyter Notebook (`.ipynb`) and the solutions are in the PDF for easy access and readability.
 
-If you have any queries or suggestions, feel free to reach out at **aritradas.habra@gmail.com**.
+If you have any queries or suggestions or if you want a glance of the exercise sheet, feel free to reach out at **aritradas.habra@gmail.com**.
